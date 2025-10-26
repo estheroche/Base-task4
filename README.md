@@ -1,5 +1,9 @@
 # Base-SubAccount-Demo
 
+## Contract Details
+- **Contract Address:** 0x22497bDA4BBa42646557DEb7C424e3EdF7F529bB
+- **Transaction Hash:** 0x5b3e53d98baead3d1c657e075598644c39098041784f5ad5cb88556160dff3e0
+
 ## Project Description
 
 This project demonstrates the implementation of SubAccounts and FundMe contract on the Base network, a layer 2 (L2) scaling solution built on top of Ethereum. The project combines account management features with a decentralized funding platform.
